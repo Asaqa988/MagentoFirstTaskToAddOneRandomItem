@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-10T19:12:10 EET" name="Default suite" finished-at="2024-03-10T19:12:47 EET" duration-ms="37242">
+    <groups>
+    </groups>
+    <test started-at="2024-03-10T19:12:10 EET" name="Default test" finished-at="2024-03-10T19:12:47 EET" duration-ms="37242">
+      <class name="AddOneRandomItem">
+        <test-method is-config="true" signature="mySetup()[pri:0, instance:AddOneRandomItem@23fb172e]" started-at="2024-03-10T19:12:10 EET" name="mySetup" finished-at="2024-03-10T19:12:10 EET" duration-ms="140" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mySetup -->
+        <test-method signature="addOneRandomItemToThecart()[pri:0, instance:AddOneRandomItem@23fb172e]" started-at="2024-03-10T19:12:10 EET" name="addOneRandomItemToThecart" finished-at="2024-03-10T19:12:15 EET" duration-ms="4922" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addOneRandomItemToThecart -->
+        <test-method signature="addOneRandomItemToThecart()[pri:0, instance:AddOneRandomItem@23fb172e]" started-at="2024-03-10T19:12:15 EET" name="addOneRandomItemToThecart" finished-at="2024-03-10T19:12:19 EET" duration-ms="3908" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addOneRandomItemToThecart -->
+        <test-method signature="addOneRandomItemToThecart()[pri:0, instance:AddOneRandomItem@23fb172e]" started-at="2024-03-10T19:12:19 EET" name="addOneRandomItemToThecart" finished-at="2024-03-10T19:12:22 EET" duration-ms="3838" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addOneRandomItemToThecart -->
+        <test-method signature="addOneRandomItemToThecart()[pri:0, instance:AddOneRandomItem@23fb172e]" started-at="2024-03-10T19:12:22 EET" name="addOneRandomItemToThecart" finished-at="2024-03-10T19:12:26 EET" duration-ms="3558" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addOneRandomItemToThecart -->
+        <test-method signature="addOneRandomItemToThecart()[pri:0, instance:AddOneRandomItem@23fb172e]" started-at="2024-03-10T19:12:26 EET" name="addOneRandomItemToThecart" finished-at="2024-03-10T19:12:29 EET" duration-ms="3524" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addOneRandomItemToThecart -->
+        <test-method signature="addOneRandomItemToThecart()[pri:0, instance:AddOneRandomItem@23fb172e]" started-at="2024-03-10T19:12:29 EET" name="addOneRandomItemToThecart" finished-at="2024-03-10T19:12:33 EET" duration-ms="3463" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addOneRandomItemToThecart -->
+        <test-method signature="addOneRandomItemToThecart()[pri:0, instance:AddOneRandomItem@23fb172e]" started-at="2024-03-10T19:12:33 EET" name="addOneRandomItemToThecart" finished-at="2024-03-10T19:12:36 EET" duration-ms="3466" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addOneRandomItemToThecart -->
+        <test-method signature="addOneRandomItemToThecart()[pri:0, instance:AddOneRandomItem@23fb172e]" started-at="2024-03-10T19:12:36 EET" name="addOneRandomItemToThecart" finished-at="2024-03-10T19:12:40 EET" duration-ms="3432" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addOneRandomItemToThecart -->
+        <test-method signature="addOneRandomItemToThecart()[pri:0, instance:AddOneRandomItem@23fb172e]" started-at="2024-03-10T19:12:40 EET" name="addOneRandomItemToThecart" finished-at="2024-03-10T19:12:43 EET" duration-ms="3495" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addOneRandomItemToThecart -->
+        <test-method signature="addOneRandomItemToThecart()[pri:0, instance:AddOneRandomItem@23fb172e]" started-at="2024-03-10T19:12:43 EET" name="addOneRandomItemToThecart" finished-at="2024-03-10T19:12:47 EET" duration-ms="3457" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addOneRandomItemToThecart -->
+      </class> <!-- AddOneRandomItem -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
